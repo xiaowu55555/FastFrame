@@ -3,6 +3,14 @@
 
 how to use
 
+添加 compileOptions {
+
+    sourceCompatibility JavaVersion.VERSION_1_8
+
+    targetCompatibility JavaVersion.VERSION_1_8
+
+}
+
 -Step 1 
 Add it in your root build.gradle at the end of repositories:
 	allprojects {
