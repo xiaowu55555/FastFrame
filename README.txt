@@ -4,7 +4,7 @@
 how to use
 
 -Step 1 
-Add it in your root build.gradle at the end of repositories:</br>
+Add it in your root build.gradle at the end of repositories:
 	allprojects {
 		repositories {
 			...
@@ -12,7 +12,7 @@ Add it in your root build.gradle at the end of repositories:</br>
 		}
 	}
 -Step 2
-Add the dependency:</br>
+Add the dependency:
 	dependencies {
 	        implementation 'com.github.xiaowu55555:FastFrame:1.0'
 	}`
